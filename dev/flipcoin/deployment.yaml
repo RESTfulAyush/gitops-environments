@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: flipcoin
-          image: 307987836148.dkr.ecr.us-east-1.amazonaws.com/dev-app:latest
+          image: 307987836148.dkr.ecr.us-east-1.amazonaws.com/dev-app:v1.0.0
           ports:
             - containerPort: 3000
