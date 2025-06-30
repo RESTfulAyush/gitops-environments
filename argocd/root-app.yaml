@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/RESTfulAyush/gitops-environments.git
     targetRevision: HEAD
-    path: dev/app
+    path: dev/flipcoin
   destination:
     server: https://kubernetes.default.svc
     namespace: default
